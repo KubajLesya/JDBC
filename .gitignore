@@ -1,0 +1,12 @@
+ .classpath
+        .project
+        .settings/
+        bin/
+        mysql-connector-java-5.1.47.jar
+ .classpath
+        .gitignore
+        .project
+        .settings/
+        bin/
+        mysql-connector-java-5.1.47.jar
+
